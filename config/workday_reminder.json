@@ -1,0 +1,8 @@
+{
+  "name": "工作日志提醒",
+  "description": "工作日17:30提醒写工作日志，考虑法定节假日和倒休",
+  "target": "ou_216e8e13eaf1a67e99c5e7c04245b429",
+  "channel": "feishu",
+  "time": "17:30",
+  "timezone": "Asia/Shanghai"
+}
