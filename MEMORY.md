@@ -24,6 +24,26 @@ _重要的不是发生了什么，而是记住了什么。_
 - 开发助手协作更新
 - 模型统一：kimi-coding/k2p5
 
+### 2026-02-28 - 三端统一架构落地
+
+**1. Git 版本控制体系建立**
+- 仓库：https://github.com/jinjing186118/openclaw-workspace
+- 工作流：MacBook 本地开发 → Git push → 腾讯云部署
+- 开发方式：Codex/Claude Code 辅助编辑
+- 部署命令：`ssh root@腾讯云 "git pull && ./deploy.sh"`
+
+**2. CLI 远程连接**
+- 尝试配置 MacBook CLI 连接腾讯云 Gateway
+- 结果：OpenClaw 版本不支持远程 CLI（仅支持本地）
+- 替代方案：Git + SSH 完全满足需求
+
+**3. 三端职责明确**
+| 设备 | 角色 | 使用方式 |
+|------|------|---------|
+| 腾讯云 | 主节点 | OpenClaw daemon + 数据存储 |
+| MacBook | 开发端 | Git 克隆 → Codex编辑 → push → 部署 |
+| iMac | （待配置）| 同上 |
+
 ### 2026-02-28 - Bot 协作模式优化
 - **热点搜集助手 (ops) SOUL.md 更新：**
   - 新增协作项：抓取内容实现时严格按照开发助手技能执行
