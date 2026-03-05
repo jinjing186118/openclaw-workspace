@@ -1,0 +1,53 @@
+dev|create-cli|UNKNOWN: Error: Already installed: /root/.openclaw/workspace/skills/create-cli (use --force)
+dev|agent-nestjs-skills|UNKNOWN: Error: Already installed: /root/.openclaw/workspace/skills/agent-nestjs-skills (use --force)
+dev|agentbench|SUCCESS
+content|convert-to-pdf|SUCCESS
+content|markdown-converter|UNKNOWN: Error: Already installed: /root/.openclaw/workspace/skills/markdown-converter (use --force)
+content|chain-of-density|RATE_LIMIT_FAIL
+content|meeting-notes|SUCCESS
+content|meeting-to-action|UNKNOWN: Error: Already installed: /root/.openclaw/workspace/skills/meeting-to-action (use --force)
+content|confluence|UNKNOWN: Error: Already installed: /root/.openclaw/workspace/skills/confluence (use --force)
+content|capacities|SUCCESS
+content|custom-smtp-sender|SUCCESS
+content|book-reader|SECURITY_SKIP
+content|contract-generator|SECURITY_SKIP
+ops|bing-search|NOT_FOUND
+ops|aisa-twitter-skill|SECURITY_SKIP
+ops|anycrawl|UNKNOWN: Error: Already installed: /root/.openclaw/workspace/skills/anycrawl (use --force)
+ops|amazon-data|UNKNOWN: Error: Already installed: /root/.openclaw/workspace/skills/amazon-data (use --force)
+ops|ai-news-oracle|UNKNOWN: Error: Already installed: /root/.openclaw/workspace/skills/ai-news-oracle (use --force)
+ops|osint-graph-analyzer|NOT_FOUND
+ops|tweet-processor|SUCCESS
+ops|finance-news|SECURITY_SKIP
+ops|attio-crm|SUCCESS
+ops|appstore-rating-pulse|SECURITY_SKIP
+vedio|eachlabs-video-generation|SECURITY_SKIP
+vedio|eachlabs-video-edit|SUCCESS
+vedio|eachlabs-image-generation|UNKNOWN: Error: Already installed: /root/.openclaw/workspace/skills/eachlabs-image-generation (use --force)
+vedio|eachlabs-image-edit|SUCCESS
+vedio|fal-ai|UNKNOWN: Error: Already installed: /root/.openclaw/workspace/skills/fal-ai (use --force)
+vedio|heygen-avatar-lite|UNKNOWN: Error: Already installed: /root/.openclaw/workspace/skills/heygen-avatar-lite (use --force)
+vedio|chart-image|SECURITY_SKIP
+vedio|captions|UNKNOWN: Error: Already installed: /root/.openclaw/workspace/skills/captions (use --force)
+vedio|agents-skill-podcastifier|SUCCESS
+vedio|eachlabs-face-swap|SUCCESS
+brand|bluesky|UNKNOWN: Error: Already installed: /root/.openclaw/workspace/skills/bluesky (use --force)
+brand|bird|NOT_FOUND
+brand|brand-voice-profile|SECURITY_SKIP
+brand|brw-marketing-principles|NOT_FOUND
+brand|brw-newsletter-creation-curation|SUCCESS
+brand|campaign-orchestrator|SECURITY_SKIP
+brand|cold-email|UNKNOWN: Error: Already installed: /root/.openclaw/workspace/skills/cold-email (use --force)
+brand|ghost-cms|UNKNOWN: Error: Already installed: /root/.openclaw/workspace/skills/ghost-cms (use --force)
+brand|botsee|SUCCESS
+brand|go-to-market|UNKNOWN: Error: Already installed: /root/.openclaw/workspace/skills/go-to-market (use --force)
+requirements|data-analyst|UNKNOWN: Error: Already installed: /root/.openclaw/workspace/skills/data-analyst (use --force)
+requirements|duckdb-en|NOT_FOUND
+requirements|senior-data-scientist|UNKNOWN: Error: Already installed: /root/.openclaw/workspace/skills/senior-data-scientist (use --force)
+requirements|agile-product-owner|SUCCESS
+requirements|marketing-strategy-pmm|UNKNOWN: Error: Already installed: /root/.openclaw/workspace/skills/marketing-strategy-pmm (use --force)
+requirements|competitor-analyzer|UNKNOWN: Error: Already installed: /root/.openclaw/workspace/skills/competitor-analyzer (use --force)
+requirements|clickup-mcp|SUCCESS
+requirements|csv-pipeline|UNKNOWN: Error: Already installed: /root/.openclaw/workspace/skills/csv-pipeline (use --force)
+requirements|amplitude-automation|UNKNOWN: Error: Already installed: /root/.openclaw/workspace/skills/amplitude-automation (use --force)
+requirements|business-development|UNKNOWN: Error: Already installed: /root/.openclaw/workspace/skills/business-development (use --force)

@@ -32,6 +32,430 @@
     "browser-use": {
       "version": "1.0.2",
       "installedAt": 1772202501710
+    },
+    "ai-news-zh": {
+      "version": "1.0.0",
+      "installedAt": 1772338148083
+    },
+    "xiaohongshu-writing": {
+      "version": "1.1.0",
+      "installedAt": 1772338149756
+    },
+    "ppt-generator": {
+      "version": "1.0.0",
+      "installedAt": 1772338151422
+    },
+    "ai-ppt-generate": {
+      "version": "1.0.0",
+      "installedAt": 1772338154065
+    },
+    "news-summary": {
+      "version": "1.0.1",
+      "installedAt": 1772338160244
+    },
+    "translate": {
+      "version": "1.0.0",
+      "installedAt": 1772338161662
+    },
+    "gemini-image-simple": {
+      "version": "1.1.0",
+      "installedAt": 1772338163221
+    },
+    "demo-video": {
+      "version": "1.0.0",
+      "installedAt": 1772338164903
+    },
+    "feishu-docx-powerwrite": {
+      "version": "0.1.0",
+      "installedAt": 1772338166462
+    },
+    "video-subtitles": {
+      "version": "1.0.0",
+      "installedAt": 1772338171944
+    },
+    "baidu-search": {
+      "version": "1.1.0",
+      "installedAt": 1772338173488
+    },
+    "github-trending-cn": {
+      "version": "1.0.0",
+      "installedAt": 1772338271517
+    },
+    "seo": {
+      "version": "1.0.3",
+      "installedAt": 1772338274133
+    },
+    "product-hunt-launch": {
+      "version": "0.1.0",
+      "installedAt": 1772338276465
+    },
+    "rss-digest": {
+      "version": "0.2.1",
+      "installedAt": 1772338283271
+    },
+    "automation-workflows": {
+      "version": "0.1.0",
+      "installedAt": 1772342882245
+    },
+    "content-marketing": {
+      "version": "1.0.0",
+      "installedAt": 1772342884145
+    },
+    "data-analysis": {
+      "version": "1.0.0",
+      "installedAt": 1772342885662
+    },
+    "copywriting": {
+      "version": "0.1.0",
+      "installedAt": 1772342886977
+    },
+    "writing-assistant": {
+      "version": "0.1.0",
+      "installedAt": 1772342890931
+    },
+    "content-strategy": {
+      "version": "0.1.0",
+      "installedAt": 1772342892666
+    },
+    "a-share-real-time-data": {
+      "version": "1.0.0",
+      "installedAt": 1772343781682
+    },
+    "arxiv-watcher": {
+      "version": "1.0.0",
+      "installedAt": 1772343783938
+    },
+    "ai-video-gen": {
+      "version": "1.0.0",
+      "installedAt": 1772343786297
+    },
+    "ffmpeg-video-editor": {
+      "version": "1.0.0",
+      "installedAt": 1772343788489
+    },
+    "api-dev": {
+      "version": "1.0.0",
+      "installedAt": 1772343841652
+    },
+    "ahrefs": {
+      "version": "1.2.0",
+      "installedAt": 1772343849273
+    },
+    "image-ocr": {
+      "version": "1.0.0",
+      "installedAt": 1772343904003
+    },
+    "douban-sync-skill": {
+      "version": "0.2.2",
+      "installedAt": 1772343907869
+    },
+    "academic-deep-research": {
+      "version": "1.0.0",
+      "installedAt": 1772343969652
+    },
+    "ak-rss-24h-brief": {
+      "version": "0.1.2",
+      "installedAt": 1772344027773
+    },
+    "baidu-scholar-search": {
+      "version": "1.0.0",
+      "installedAt": 1772344080800
+    },
+    "cicd-pipeline": {
+      "version": "1.0.0",
+      "installedAt": 1772344443997
+    },
+    "audit-code": {
+      "version": "1.0.0",
+      "installedAt": 1772344448708
+    },
+    "clean-pytest": {
+      "version": "0.1.0",
+      "installedAt": 1772344450736
+    },
+    "api-tester": {
+      "version": "1.0.0",
+      "installedAt": 1772344453031
+    },
+    "curl-http": {
+      "version": "1.0.0",
+      "installedAt": 1772344500805
+    },
+    "aws-solution-architect": {
+      "version": "1.0.0",
+      "installedAt": 1772344509154
+    },
+    "senior-devops": {
+      "version": "1.0.0",
+      "installedAt": 1772344572272
+    },
+    "agentlens": {
+      "version": "1.0.0",
+      "installedAt": 1772344582590
+    },
+    "create-cli": {
+      "version": "1.0.0",
+      "installedAt": 1772344662508
+    },
+    "ai-news-oracle": {
+      "version": "1.0.0",
+      "installedAt": 1772344665817
+    },
+    "anycrawl": {
+      "version": "1.0.1",
+      "installedAt": 1772344689812
+    },
+    "agent-nestjs-skills": {
+      "version": "0.1.0",
+      "installedAt": 1772344740392
+    },
+    "x-twitter": {
+      "version": "2.3.1",
+      "installedAt": 1772344802087
+    },
+    "bird-twitter": {
+      "version": "1.0.0",
+      "installedAt": 1772344803472
+    },
+    "competitor-analysis": {
+      "version": "2.0.0",
+      "installedAt": 1772344805520
+    },
+    "amazon-data": {
+      "version": "1.0.0",
+      "installedAt": 1772344807557
+    },
+    "blog-writer": {
+      "version": "0.1.0",
+      "installedAt": 1772344813400
+    },
+    "aisa-youtube-search": {
+      "version": "1.0.0",
+      "installedAt": 1772344867751
+    },
+    "content-creator": {
+      "version": "1.0.0",
+      "installedAt": 1772344923378
+    },
+    "agentbench": {
+      "version": "1.0.0",
+      "installedAt": 1772344926574
+    },
+    "bluesky": {
+      "version": "1.6.0",
+      "installedAt": 1772344933702
+    },
+    "ant-design-skill": {
+      "version": "0.1.0",
+      "installedAt": 1772344985089
+    },
+    "business-development": {
+      "version": "1.0.0",
+      "installedAt": 1772344992938
+    },
+    "convert-to-pdf": {
+      "version": "1.0.0",
+      "installedAt": 1772345003311
+    },
+    "cold-email": {
+      "version": "1.0.5",
+      "installedAt": 1772345010056
+    },
+    "agentic-security-audit": {
+      "version": "1.0.0",
+      "installedAt": 1772345010751
+    },
+    "markdown-converter": {
+      "version": "1.0.0",
+      "installedAt": 1772345118550
+    },
+    "agentarxiv": {
+      "version": "1.0.9",
+      "installedAt": 1772345172894
+    },
+    "market-research": {
+      "version": "1.0.0",
+      "installedAt": 1772345220659
+    },
+    "confluence": {
+      "version": "1.1.0",
+      "installedAt": 1772345230017
+    },
+    "competitor-monitoring": {
+      "version": "1.0.0",
+      "installedAt": 1772345234530
+    },
+    "action-suggester": {
+      "version": "1.0.5",
+      "installedAt": 1772345296297
+    },
+    "apollo": {
+      "version": "1.0.0",
+      "installedAt": 1772345313113
+    },
+    "meeting-to-action": {
+      "version": "1.0.0",
+      "installedAt": 1772345317231
+    },
+    "flomo-notes": {
+      "version": "0.1.0",
+      "installedAt": 1772345340521
+    },
+    "invoice-generator": {
+      "version": "1.0.0",
+      "installedAt": 1772345362619
+    },
+    "branding": {
+      "version": "1.0.0",
+      "installedAt": 1772345365730
+    },
+    "academic-research-hub": {
+      "version": "0.1.0",
+      "installedAt": 1772345421657
+    },
+    "meeting-notes": {
+      "version": "1.0.1",
+      "installedAt": 1772345430068
+    },
+    "deep-research-pro": {
+      "version": "1.0.2",
+      "installedAt": 1772345438228
+    },
+    "fal-ai": {
+      "version": "0.1.0",
+      "installedAt": 1772345478048
+    },
+    "excel-weekly-dashboard": {
+      "version": "1.0.0",
+      "installedAt": 1772345545741
+    },
+    "capacities": {
+      "version": "1.0.0",
+      "installedAt": 1772345558297
+    },
+    "captions": {
+      "version": "1.4.1",
+      "installedAt": 1772345564565
+    },
+    "in-depth-research": {
+      "version": "1.0.0",
+      "installedAt": 1772345568697
+    },
+    "custom-smtp-sender": {
+      "version": "1.0.0",
+      "installedAt": 1772345585148
+    },
+    "heygen-avatar-lite": {
+      "version": "1.1.0",
+      "installedAt": 1772345586385
+    },
+    "eachlabs-image-generation": {
+      "version": "0.1.2",
+      "installedAt": 1772345609473
+    },
+    "canva-connect": {
+      "version": "1.0.0",
+      "installedAt": 1772345652610
+    },
+    "blogburst": {
+      "version": "1.2.0",
+      "installedAt": 1772345785572
+    },
+    "adaptlypost": {
+      "version": "1.0.0",
+      "installedAt": 1772345807489
+    },
+    "tweet-processor": {
+      "version": "1.0.1",
+      "installedAt": 1772345820470
+    },
+    "marketing-strategy-pmm": {
+      "version": "1.0.0",
+      "installedAt": 1772345829531
+    },
+    "cold-outreach": {
+      "version": "2.0.0",
+      "installedAt": 1772345851239
+    },
+    "attio-crm": {
+      "version": "1.0.0",
+      "installedAt": 1772345873875
+    },
+    "ghost-cms": {
+      "version": "0.1.8",
+      "installedAt": 1772345897031
+    },
+    "competitor-analyzer": {
+      "version": "1.0.0",
+      "installedAt": 1772345918979
+    },
+    "go-to-market": {
+      "version": "0.1.0",
+      "installedAt": 1772345940859
+    },
+    "eachlabs-video-edit": {
+      "version": "0.1.1",
+      "installedAt": 1772345953100
+    },
+    "senior-data-scientist": {
+      "version": "1.0.0",
+      "installedAt": 1772345963084
+    },
+    "csv-pipeline": {
+      "version": "1.0.0",
+      "installedAt": 1772345984853
+    },
+    "eachlabs-image-edit": {
+      "version": "0.1.1",
+      "installedAt": 1772346005703
+    },
+    "lead-magnets": {
+      "version": "1.0.0",
+      "installedAt": 1772346006914
+    },
+    "data-analyst": {
+      "version": "1.0.0",
+      "installedAt": 1772346028506
+    },
+    "amplitude-automation": {
+      "version": "0.1.0",
+      "installedAt": 1772346050357
+    },
+    "agents-skill-podcastifier": {
+      "version": "0.1.0",
+      "installedAt": 1772346135647
+    },
+    "eachlabs-face-swap": {
+      "version": "0.1.3",
+      "installedAt": 1772346162473
+    },
+    "brw-newsletter-creation-curation": {
+      "version": "1.0.0",
+      "installedAt": 1772346344145
+    },
+    "botsee": {
+      "version": "0.2.5",
+      "installedAt": 1772346448841
+    },
+    "agile-product-owner": {
+      "version": "1.0.0",
+      "installedAt": 1772346579161
+    },
+    "clickup-mcp": {
+      "version": "1.0.0",
+      "installedAt": 1772346657804
+    },
+    "bilibili-youtube-watcher": {
+      "version": "1.0.0",
+      "installedAt": 1772383212106
+    },
+    "wechat-mp-cn": {
+      "version": "1.0.0",
+      "installedAt": 1772431093090
+    },
+    "10x-patterns": {
+      "version": "1.0.0",
+      "installedAt": 1772431098400
     }
   }
 }
